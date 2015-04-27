@@ -14,14 +14,6 @@ And then execute:
 
     $ bundle
 
-##Or install it yourself as:
-
-##    $ gem install shoppe-notification
-
-## Usage
-
-TODO: Write usage instructions here
-
 ## Contributing
 
 1. Fork it ( https://github.com/IgorOsa/shoppe-notification/fork )
